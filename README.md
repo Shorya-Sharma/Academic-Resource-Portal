@@ -168,3 +168,4 @@ The web app will run at port 3000, i.e. http://localhost:3000/.
 
 - **[Shrirang Deshmukh](https://www.linkedin.com/in/shrirang-deshmukh/)**
 - **[Sai Krishna Jupally](https://www.linkedin.com/in/sai-krishna-jupally-b7050177/)**
+- **[Shorya Sharma](https://www.linkedin.com/in/shorya-sharma-3628a6191/)**
